@@ -1,4 +1,4 @@
-![image](https://github.com/seokhyun06/JavaFx/assets/122009563/b1e72c6f-de15-412e-ad9b-b4ff51887141)# JavaFx
+# JavaFx
 ## 1. 이클립스 환경에서 [Eclipse Marcketspace]로 들어간다.
 ![image](https://github.com/seokhyun06/JavaFx/assets/122009563/53e3d697-18de-4573-8c36-c2aea25bbe0b)
 
