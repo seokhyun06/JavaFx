@@ -13,7 +13,8 @@
 ![image](https://github.com/seokhyun06/JavaFx/assets/122009563/4bd51c13-4c98-4ed0-929d-6f3e2bc4548a)
 
 ## 5. Modulepath를 누르고 Add External JARs를 누른뒤 경로를 따라 설정해주면 된다.
-![Uploading image.png…]()
+![image](https://github.com/seokhyun06/JavaFx/assets/122009563/caf4004d-fd2e-4ec2-8e9d-f40c96972759)
+
 
 
 
